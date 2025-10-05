@@ -1,6 +1,4 @@
-## Kelvin Souza
-
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Kelvin Souza
 
 **`Desenvolvedor FullStack`**
 
