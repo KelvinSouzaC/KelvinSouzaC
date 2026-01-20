@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Kelvin Souza Cardoso, tenho 17 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINOVE. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu instagram onde ensino a criar projetos web, com o perfil chamado "monster.dev".
+Me chamo Kelvin Souza Cardoso, tenho 17 anos e sou natural de São Paulo. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu instagram onde ensino a criar projetos web, com o perfil chamado "monster.dev".
 
 ---
 
