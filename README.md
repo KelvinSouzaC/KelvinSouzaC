@@ -50,8 +50,8 @@ Me chamo Kelvin Souza Cardoso, tenho 17 anos e sou natural de São Paulo. Sou ap
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="SQL Server Express" 
+    title="SQL Server Express"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/file-sql-color-red-icon.png" 
